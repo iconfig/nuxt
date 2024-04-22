@@ -4,6 +4,7 @@
      <ul>
          <li v-for="(item,index) in list" :key="index">{{item.name}}</li>
      </ul>
+    32
 </div>
 </template>
 
