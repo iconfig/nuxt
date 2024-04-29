@@ -2,9 +2,9 @@
 useSeoMeta({
     title:'留言板',
     //网站的描述
-    description:'',
+    description:'蓦然回首',
     //搜索关键词
-    keywords:''
+    ogImage: 'https://example.com/image.png',
 })
 </script>
 
